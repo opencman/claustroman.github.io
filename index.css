@@ -176,12 +176,6 @@ footer
   text-align: center;
   }
 
-footer nav
-  {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  }
-
 .footer_social_links
   {
   display: flex;
